@@ -1,0 +1,10 @@
+{
+    "prompt": "質問： 日本で一番高い山は何ですか？簡潔に教えてください。\n答え：",
+    "max_new_tokens": 50,
+    "top_p": 0.9,
+    "temperature": 0.2,
+    "top_k": 20,
+    "do_sample": true,
+    "repetition_penalty": 1.2,
+    "skip_prompt": true
+}
